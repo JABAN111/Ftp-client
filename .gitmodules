@@ -1,0 +1,6 @@
+[submodule "AutoTestingTask"]
+	path = AutoTestingTask
+	url = https://github.com/JABAN111/AutoTestingTask.git
+[submodule "Test-FTP"]
+	path = Test-FTP
+	url = https://github.com/JABAN111/Test-FTP.git
